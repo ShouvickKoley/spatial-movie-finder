@@ -5,6 +5,10 @@ instanced draw call, force-clustered by genre with [d3-force](https://d3js.org/d
 and navigable by pan/zoom instead of infinite scroll. Click a poster and it
 morphs, canvas-to-DOM, into a full detail panel.
 
+**Try the App:** https://spatial-movie-finder.vercel.app/ 
+<img width="1645" height="953" alt="image" src="https://github.com/user-attachments/assets/06c56af7-4958-48a1-bd39-b55646eb5816" />
+
+
 Built with React, [Three.js](https://threejs.org/) via
 [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber), Tailwind CSS,
 and hand-rolled [shadcn/ui](https://ui.shadcn.com)-style components.
